@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AutoCompleteComboBoxListener
+comment1.params=comboBox
+comment1.target=AutoCompleteComboBoxListener(javafx.scene.control.ComboBox)
+comment2.params=t
+comment2.target=void\ handle(javafx.scene.input.KeyEvent)
+comment3.params=event
+comment3.target=void\ handle(javafx.scene.input.KeyEvent)
+comment4.params=textLength
+comment4.target=void\ moveCaret(int)
+numComments=5
